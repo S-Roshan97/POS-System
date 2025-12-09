@@ -1,0 +1,14 @@
+use that classpath to get the output
+
+
+1st copy =  javac -cp .;lib/itextpdf-5.5.13.3.jar POSSystemGUI.java
+
+
+
+2nd copy = java -cp .;lib/itextpdf-5.5.13.3.jar POSSystemGUI
+
+
+
+
+
+java -cp ".;lib/itextpdf-5.5.13.2.jar" pos.AppInitializer

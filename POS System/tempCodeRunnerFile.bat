@@ -1,0 +1,1 @@
+javac -cp ".;lib\itextpdf-5.5.13.3.jar" -d bin src\POSSystemGUI.java

@@ -1,0 +1,15 @@
+Wed Aug 20 19:46:28 IST 2025 :: Invoice for Jane Smith @ Showroom | Apple iPhone 14 x1 = $999.00 | Subtotal: $999.00 | Total: $1098.90
+Wed Aug 20 20:51:50 IST 2025 :: Invoice for Jane Smith @ Showroom | Apple iPhone 14 x1 = $999.00 | Subtotal: $999.00 | Total: $1098.90
+Wed Aug 20 21:11:59 IST 2025 :: Invoice for John Doe @ Showroom | Apple iPhone 14 x3 = $2997.00 | Subtotal: $2997.00 | Total: $3296.70
+Wed Aug 20 22:49:31 IST 2025 :: Invoice for John Doe @ Showroom | Shope x5 = $50.00 | Subtotal: $50.00 | Total: $55.00
+Wed Aug 20 23:08:13 IST 2025 :: Invoice for Jane Smith @ Showroom | Shope x1 = $10.00 | Subtotal: $10.00 | Total: $11.00
+Thu Aug 21 00:55:01 IST 2025 :: Invoice for G @ Showroom | Text Book x2 = $550.00 | Subtotal: $550.00 | Total: $605.00
+Thu Aug 21 01:32:16 IST 2025 :: Invoice for Ros @ Kandy | Text Book x2 = $550.00 | Subtotal: $550.00 | Total: $605.00
+Thu Aug 21 01:46:13 IST 2025 :: Invoice for hh @ Showroom | Text Book x1 = $275.00 | Subtotal: $275.00 | Total: $302.50
+Thu Aug 21 02:34:03 IST 2025 :: Invoice for gg @ Showroom | Test Book x1 = $50.00 | Subtotal: $50.00 | Total: $55.00
+Thu Aug 21 03:03:02 IST 2025 :: Invoice for kee @ Showroom | Test Book x3 = $150.00 | pencils x5 = $125.00 | Subtotal: $275.00 | Total: $302.50
+Thu Aug 21 03:09:04 IST 2025 :: Invoice for Herath @ Showroom | Test Book x20 = $1000.00 | Subtotal: $1000.00 | Total: $1100.00
+Thu Aug 21 03:12:00 IST 2025 :: Invoice for Herath @ Showroom | Test Book x4 = $200.00 | Subtotal: $200.00 | Total: $220.00
+Thu Aug 21 19:19:52 IST 2025 :: Invoice for Roshan @ Showroom | pencils x2 = $50.00 | Subtotal: $50.00 | Total: $55.00
+Thu Aug 21 21:33:47 IST 2025 :: Invoice for Shan @ Showroom | pencils x20 = $500.00 | Subtotal: $500.00 | Total: $500.00
+Thu Aug 21 22:21:32 IST 2025 :: Invoice for jhon @ Showroom | pencils x2 = $50.00 | Subtotal: $50.00 | Total: $50.00
